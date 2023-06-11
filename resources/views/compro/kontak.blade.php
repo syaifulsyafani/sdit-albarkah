@@ -37,8 +37,8 @@
             </div>
             <div class="info_item">
                 <i class="fa fa-phone"></i>
-                <h6><a href="#">+62 21 8770 6162</a></h6>
-                <p>Senin - Jum'at 8 am to 3 pm</p>
+                <h6><a href="#">Phone</a></h6>
+                <p>+62 21 8770 6162</p>
             </div>
             <div class="info_item">
                 <i class="fa fa-envelope"></i>
