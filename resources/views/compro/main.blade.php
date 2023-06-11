@@ -89,7 +89,7 @@
                         style="font-size: 30px; line-height: 30px">
                         <span class="text-white">SD Al-Barkah</span>
                     </a>
-                    <p>
+                    <p class="text-white">
                         Labore dolor amet ipsum ea, erat sit ipsum duo eos. Volup amet ea
                         dolor et magna dolor, elitr rebum duo est sed diam elitr. Stet elitr
                         stet diam duo eos rebum ipsum diam ipsum elitr.
