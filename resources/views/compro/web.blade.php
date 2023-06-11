@@ -132,7 +132,7 @@
 </section>
 <!-- End About Area -->
 
-<!-- Start callto Area -->
+{{-- bagian video --}}
 <section class="callto-area section-gap relative">
     <div class="overlay overlay-bg"></div>
     <div class="container">
@@ -146,6 +146,6 @@
         </div>
     </div>
 </section>
-<!-- End callto Area -->
+<br><br><br>
     
 @endsection
