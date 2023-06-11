@@ -4113,12 +4113,12 @@ h6 {
     list-style: none
 }
 
-.footer-area .single-footer-widget ul li a {
+.footer-area .single-footer-widget ul li a{
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
-    color: #87898f
+    color: #ffffff
 }
 
 .footer-area .single-footer-widget ul li a:hover {
