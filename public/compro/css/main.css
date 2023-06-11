@@ -753,13 +753,14 @@ th {
 .section-gap {
     padding: 130px 0
 }
+
 .section-gap-footer {
     padding: 30px 0
 }
 
 @media (max-width: 991px) {
     .section-gap {
-        padding: 70px 
+        padding: 70px
     }
 }
 
@@ -1186,13 +1187,13 @@ th {
     text-transform: uppercase;
     font-size: 13px;
     font-weight: 500;
-    color: #fff;
+    color: black;
     padding: 32px 20px
 }
 
 .navbar-nav a:hover,
 .navbar-nav a.active {
-    color: #cea06c
+    color: #B7AA31
 }
 
 @media (max-width: 992px) {
@@ -1293,7 +1294,7 @@ th {
     line-height: 100px;
     font-weight: 700;
     text-transform: uppercase;
-    margin-bottom: 20px 
+    margin-bottom: 20px
 }
 
 @media (max-width: 991.98px) {
@@ -1376,7 +1377,7 @@ th {
         -moz-transform: translateX(-50%);
         -ms-transform: translateX(-50%);
         -o-transform: translateX(-50%);
-        transform: translateX(-50%);    
+        transform: translateX(-50%);
     }
 }
 
@@ -4077,7 +4078,7 @@ h6 {
 }
 
 .footer-area {
-    background: #0e1424
+    background: #084C26
 }
 
 @media (max-width: 800px) {
