@@ -33,7 +33,7 @@
 <body>
 
 	<!-- Start Header Area -->
-	<header class="default-header">
+	<header class="default-header bg-light">
 		<nav class="navbar navbar-expand-lg navbar-light">
 			<div class="container">
 				<a class="navbar-brand" href="/web">
@@ -46,7 +46,7 @@
 
 				<div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
 					<ul class="navbar-nav">
-						<li><a class="active" href="/web">Home</a></li>
+						<li><a href="/web">Home</a></li>
                         <li class="dropdown">
 							<a class="dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
 								Tentang
