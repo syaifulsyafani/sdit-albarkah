@@ -90,9 +90,7 @@
                         <span class="text-white">SD Al-Barkah</span>
                     </a>
                     <p class="text-white">
-                        Labore dolor amet ipsum ea, erat sit ipsum duo eos. Volup amet ea
-                        dolor et magna dolor, elitr rebum duo est sed diam elitr. Stet elitr
-                        stet diam duo eos rebum ipsum diam ipsum elitr.
+                        Sekolah Dasar Islam yang berkomitmen untuk memberikan pendidikan yang berkualitas dan bernilai-nilai Islam kepada para siswa. Dengan didukung oleh tenaga pendidik yang berpengalaman dan berdedikasi, SDIT Al Barkah menciptakan lingkungan belajar yang inklusif, kreatif, dan interaktif, sehingga siswa dapat tumbuh dan berkembang secara optimal dalam aspek akademik, moral, dan spiritual.
                     </p>
                 </div>
 				<div class="col-lg-2 col-md-6 single-footer-widget">
