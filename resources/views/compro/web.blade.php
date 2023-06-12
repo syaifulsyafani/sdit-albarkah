@@ -14,52 +14,47 @@
                         &<br>
 						Berprestasi
 					</h1>
-					<a href="/profil" class="primary-btn">Read More</a>
 				</div>
-			</div>
-		</div>
-		<div class="head-bottom-meta">
-			<div class="d-flex meta-left no-padding">
-				<a href="#"><span class="fa fa-facebook-f"></span></a>
-				<a href="#"><span class="fa fa-twitter"></span></a>
-				<a href="#"><span class="fa fa-instagram"></span></a>
-                <a href="#"><span class="fa fa-linkedin"></span></a>
 			</div>
 		</div>
 	</section>
 	<!-- End banner Area -->
 
-    <!-- Start Sample Area -->
-	<section class="sample-text-area">
+    <!-- Start Kata Sambutan -->        
+    <section class="about-area section-gap">
         <div class="container">
-		<div class="section-top-border">
-            <h3 class="mb-30">Quotes</h3>
-            <div class="row">
-                <div class="col-lg-12">
-                    <blockquote class="generic-blockquote">
-                        “Recently, the US Federal government banned online casinos from operating in America by making it illegal to transfer money
-                        to them through any US bank or payment system. As a result of this law, most of the popular online casino networks
-                        such as Party Gaming and PlayTech left the United States. Overnight, online casino players found themselves being
-                        chased by the Federal government. But, after a fortnight, the online casino industry came up with a solution and new
-                        online casinos started taking root. These began to operate under a different business umbrella, and by doing that,
-                        rendered the transfer of money to and from them legal. A major part of this was enlisting electronic banking systems
-                        that would accept this new clarification and start doing business with me. Listed in this article are the electronic
-                        banking”
-                    </blockquote>
+            <div class="row align-items-center justify-content-center">
+                <div class="col-lg-5 col-md-12 about-right">
+                    <img class="img-fluid" src="{{ asset('compro/img/about.png') }}" alt=""> <br><br>
+                    <h2 class="text-center">Lia Mahlia S.Pd</h2>
+                </div>
+                <div class="col-lg-7 col-md-12 about-left">
+                    <div class="section-title text-left">
+                        <h2>Sambutan Kepala SDIT Al Barkah</h2>
+                        <p>Bissmillahirrahmanirrahiim <br><br>
+                            Welcome to SDIT Al Barkah…<br><br>
+                            Selamat datang di dunia pendidikan Al Barkah. Kami merasa sangat bangga mendapatkan perhatian dan kepercayaan dari Bapak-Ibu sekalian. Kami akan berupaya untuk dapat menjalankan amanah ini dengan baik agar pertanggung jawaban di hadapan Allah SWT kelak menjadi ringan.
+                            <br><br>Di sini kami mengajak Anda para orang tua siswa untuk berpartisipasi membangun masyarakat pembelajar dalam rangka menyongsong era baru bagi anak-anak kita dan menjadikan anak-anak kita generasi yang mampu berkompetisi tanpa kehilangan wajah budaya dan moral.
+                            Memasuki pergaulan global yang penuh dengan kompetisi ini, kita perlu menyiapkan mental anak-anak kita agar mampu bersaing dengan baik dengan memiliki moral/adab islami, kemandirian, kecerdasan, juga tentunya kreatifitas-inovasi sesuai tumbuh kembangnya.
+                            <br><br>Di SDIT Al Barkah setiap siswa memiliki hak untuk berprestasi dan mendapatkan pelayanan yang baik. Karena kami memandang ini semua adalah amanah yang akan kami pertanggung jawabkan di hadapan Allah SWT. Tentu hal ini semakin terasa mudah dengan adanya kerjasama dari para orang tua siswa dalam menjalankan program sekolah.
+                            <br><br>Sebagai penutup, sekali lagi kami ucapkan selamat datang di Al Barkah. Marilah bekerjasama agar anak-anak kita dapat berkembang dengan baik sehingga tumbuh menjadi generasi yang berakhlakul karimah dan cerdas.</p>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-	</section>
-	<!-- End Sample Area -->
+    </section>
+<!-- End Kata Sambutan -->
+
 <!-- Start Kata Sambutan -->        
     <section class="about-area section-gap">
         <div class="container">
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-5 col-md-12 about-right">
                     <div class="section-title text-left">
-                        <h2>Lapangan</h2>
-    
+                        <h2>Kami Adalah Sekolah</h2>
+                        <h2>Islam Terpadu</h2>
+                        <p>SDIT Al-Barkah adalah sebuah sekolah dasar yang berlokasi di daerah Jl. Raya Bogor No.29,5 Mekarsari, Cimanggis, Depok. Didirikan pada tahun 1998, sekolah ini berkomitmen untuk memberikan pendidikan ...</p>
+                        <a href="/profil" class="primary-btn">Read More</a>
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-12 about-left">
@@ -68,69 +63,8 @@
             </div>
         </div>
     </section>
-<!-- End Kata Sambutanxa -->
+<!-- End Kata Sambutan -->
 
-<!-- Start features Area -->
-<section class="features-area section-gap-top" id="news">
-    <div class="container">
-        <div class="row feature_inner">
-            <div class="col-lg-3 col-md-6">
-                <div class="feature-item">
-                    <i class="fi flaticon-compass"></i>
-                    <h4>Creative Design</h4>
-                    <p>Hac facilisi ac vitae consec tetu commodo vel magna suspendisse on senectus pharetra magnfauc </p>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="feature-item">
-                    <i class="fi flaticon-desk"></i>
-                    <h4>Experienced Style</h4>
-                    <p>Hac facilisi ac vitae consec tetu commodo vel magna suspendisse on senectus pharetra magnfauc </p>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="feature-item">
-                    <i class="fi flaticon-bathroom"></i>
-                    <h4>Product Research</h4>
-                    <p>Hac facilisi ac vitae consec tetu commodo vel magna suspendisse on senectus pharetra magnfauc </p>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="feature-item">
-                    <i class="fi flaticon-beach"></i>
-                    <h4>Affordable Price</h4>
-                    <p>Hac facilisi ac vitae consec tetu commodo vel magna suspendisse on senectus pharetra magnfauc </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- End features Area -->
-
-<!-- Start About Area -->
-<section class="about-area section-gap">
-    <div class="container">
-        <div class="row align-items-center justify-content-center">
-            <div class="col-lg-7 col-md-12 about-left">
-                <img class="img-fluid" src="{{ asset('compro/img/about.png') }}" alt="">
-            </div>
-            <div class="col-lg-5 col-md-12 about-right">
-                <div class="section-title text-left">
-                    <h4>About Us</h4>
-                    <h2>We are world <br /> number one Company</h2>
-                </div>
-                <div>
-                    <p>
-                        Face male he light it moveth darkness winged eveni seas after life every gathering is forth two kind lesser i
-                        from seas him open him From creepeth after, life is above image from replenish behold great
-                    </p>
-                </div>
-                <a href="#" class="primary-btn">Read More</a>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- End About Area -->
 
 {{-- bagian video --}}
 <section class="callto-area section-gap relative">
