@@ -29,15 +29,10 @@
                 </div>
                 <div>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse,
-                        repellendus eos a iste reprehenderit perferendis,
-                        deserunt facere architecto dolorum, adipisci deleniti nam labore dolore non totam. 
-                        Officia vero veniam placeat?
+                        SDIT Al-Barkah adalah sebuah sekolah dasar yang berlokasi di daerah Jl. Raya Bogor No.29,5 Mekarsari, Cimanggis, Depok. Didirikan pada tahun 1998, sekolah ini berkomitmen untuk memberikan pendidikan berkualitas tinggi dengan pendekatan Islami kepada siswa-siswinya. 
                     </p>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Dolore odit blanditiis voluptas nihil laudantium accusantium rerum libero quam officiis,
-                        recusandae doloribus, atque iste laboriosam. Culpa repellat dolor vero ab laborum?
+                        SDIT Al-Barkah memadukan kurikulum nasional dengan pendidikan agama Islam yang kuat, menciptakan lingkungan yang inklusif dan mendukung perkembangan holistik siswa.
                     </p>
                 </div>
             </div>
