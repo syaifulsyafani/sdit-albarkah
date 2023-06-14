@@ -9,7 +9,6 @@
         <div class="row justify-content-between align-items-center text-center banner-content">
             <div class="col-lg-12">
                 <h1 class="text-white">Artikel</h1>
-                <p>Home/Article</p>
             </div>
         </div>
     </div>

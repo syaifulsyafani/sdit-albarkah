@@ -20,24 +20,6 @@
                     </p>
                 </a>
             </li>
-            <li class="nav-header">PENGAJAR</li>
-            <li class="nav-item">
-                <a href="/staff" class="nav-link">
-                    <i class="nav-icon fas fa-user"></i>
-                    <p>
-                        Guru & Staff
-                    </p>
-                </a>
-            </li>
-            <li class="nav-header">FOTO</li>
-            <li class="nav-item">
-                <a href="/galeri" class="nav-link">
-                    <i class="nav-icon fas fa-image"></i>
-                    <p>
-                        Galeri Foto
-                    </p>
-                </a>
-            </li>
             <li class="nav-header">KATEGORI</li>
             <li class="nav-item">
                 <a href="/category" class="nav-link">
