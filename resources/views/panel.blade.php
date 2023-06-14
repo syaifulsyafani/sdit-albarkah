@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Admin Al-Barkah</title>
+    <title>Admin Al Barkah</title>
 
     <!-- Google Font: Source Sans Pro -->
     <link rel="stylesheet"

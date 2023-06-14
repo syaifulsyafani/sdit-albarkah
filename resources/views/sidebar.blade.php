@@ -4,9 +4,7 @@
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a style="text-decoration:none" href="/home" class="brand-link">
-        <img src="{{ asset ('admin/dist/img/AdminLTELogo.png') }}" alt="" class="brand-image img-circle elevation-3"
-            style="opacity: .8">
-        <span class="brand-text font-weight-light">SDIT Al-Barkah</span>
+        <img src="{{ asset('compro/img/logo1.png') }}" alt="">
     </a>
 
     <!-- Sidebar Menu -->
