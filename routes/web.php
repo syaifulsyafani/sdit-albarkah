@@ -46,6 +46,11 @@ Route::get('/kurikulum', function () {
     return view('compro.kurikulum');
 });
 
+Route::get('/daftar', function () {
+    return view('compro.daftar');
+});
+
+
 Route::get('/deblog', function () {
     return view('compro.deblog');
 });

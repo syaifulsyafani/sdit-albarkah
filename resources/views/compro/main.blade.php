@@ -68,7 +68,7 @@
                             </a>
                             <div class="dropdown-menu">
                                 <a class="dropdown-item" href="/visi">Alur Pendaftaran</a>
-                                <a class="dropdown-item" href="/visi">Pendaftaran Siswa Baru</a>
+                                <a class="dropdown-item" href="/daftar">Pendaftaran Siswa Baru</a>
                                 <a class="dropdown-item" href="/profil">FAQ</a>
                             </div>
                         </li>
