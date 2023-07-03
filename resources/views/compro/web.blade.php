@@ -24,8 +24,8 @@
     <section class="about-area section-gap">
         <div class="container">
             <div class="row align-items-center justify-content-center">
-                <div class="col-lg-5 col-md-12 about-right">
-                    <img class="img-fluid" src="{{ asset('compro/img/about.png') }}" alt=""> <br><br>
+                <div class="col-lg-4 col-md-12 about-right">
+                    <img class="img-fluid" src="{{ asset('compro/img/bulia.jpg') }}" alt=""> <br><br>
                     <h2 class="text-center">Lia Mahlia S.Pd</h2>
                 </div>
                 <div class="col-lg-7 col-md-12 about-left">
@@ -58,7 +58,7 @@
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-12 about-left">
-                    <img class="img-fluid" src="{{ asset('compro/img/about.png') }}" alt="">
+                    <img class="img-fluid" src="{{ asset('compro/img/profil.jpg') }}" alt="coba">
                 </div>
             </div>
         </div>

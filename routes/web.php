@@ -34,8 +34,16 @@ Route::get('/visi', function () {
     return view('compro.visi');
 });
 
+Route::get('/struktur', function () {
+    return view('compro.struktur');
+});
+
 Route::get('/fasilitas', function () {
     return view('compro.fasilitas');
+});
+
+Route::get('/kurikulum', function () {
+    return view('compro.kurikulum');
 });
 
 Route::get('/deblog', function () {

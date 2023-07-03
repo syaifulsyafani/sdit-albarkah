@@ -60,7 +60,7 @@
                             </div>
                         </li>
                         <li><a href="/fasilitas">Fasilitas</a></li>
-                        <li><a href="/fasilitas">Kurikulum</a></li>
+                        <li><a href="/kurikulum">Kurikulum</a></li>
                         <li><a href="/bloger">Artikel</a></li>
                         <li class="dropdown">
                             <a class="dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">

@@ -21,7 +21,7 @@
     <div class="container">
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-7 col-md-12 about-left">
-                <img class="img-fluid" src="{{ asset('compro/img/about.png') }}" alt="">
+                <img class="img-fluid" src="{{ asset('compro/img/kelas.jpeg') }}" alt="">
             </div>
             <div class="col-lg-5 col-md-12 about-right">
                 <div class="section-title text-right">
@@ -42,7 +42,7 @@
                 </div>
             </div>
             <div class="col-lg-7 col-md-12 about-left">
-                <img class="img-fluid" src="{{ asset('compro/img/about.png') }}" alt="">
+                <img class="img-fluid" src="{{ asset('compro/img/lab.jpeg') }}" alt="">
             </div>
         </div>
     </div>
@@ -52,7 +52,7 @@
     <div class="container">
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-7 col-md-12 about-left">
-                <img class="img-fluid" src="{{ asset('compro/img/about.png') }}" alt="">
+                <img class="img-fluid" src="{{ asset('compro/img/perpus.jpeg') }}" alt="">
             </div>
             <div class="col-lg-5 col-md-12 about-right">
                 <div class="section-title text-right">
@@ -73,7 +73,7 @@
                 </div>
             </div>
             <div class="col-lg-7 col-md-12 about-left">
-                <img class="img-fluid" src="{{ asset('compro/img/about.png') }}" alt="">
+                <img class="img-fluid" src="{{ asset('compro/img/podcas.jpeg') }}" alt="">
             </div>
         </div>
     </div>
@@ -83,7 +83,7 @@
     <div class="container">
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-7 col-md-12 about-left">
-                <img class="img-fluid" src="{{ asset('compro/img/about.png') }}" alt="">
+                <img class="img-fluid" src="{{ asset('compro/img/kantin.jpeg') }}" alt="">
             </div>
             <div class="col-lg-5 col-md-12 about-right">
                 <div class="section-title text-right">

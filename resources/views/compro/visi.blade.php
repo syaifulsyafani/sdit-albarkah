@@ -8,8 +8,7 @@
     <div class="container">
         <div class="row justify-content-between align-items-center text-center banner-content">
             <div class="col-lg-12">
-                <h1 class="text-white">Visi & Misi Sekolah</h1>
-                <p>Home/Visi&Misi</p>
+                <h1 class="text-white">Visi & Misi</h1>
             </div>
         </div>
     </div>
