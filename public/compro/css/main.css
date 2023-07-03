@@ -1690,6 +1690,15 @@ th {
     margin-bottom: 30px
 }
 
+.gambar-kecil {
+    opacity: 1;
+    display: block;
+    width: 30%;
+    height: 30%;
+    transition: 0.5s ease;
+    backface-visibility: hidden
+}
+
 .single-project .thumb .image {
     opacity: 1;
     display: block;
@@ -2292,7 +2301,7 @@ th {
     }
 }
 
-.widget-wrap .single-sidebar-widget {
+.widget-wrap .single-sidebar-widget  .widget-new{
     margin: 30px 30px;
     padding-bottom: 30px;
     border-bottom: 1px solid #eee

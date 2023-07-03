@@ -16,8 +16,9 @@ return new class extends Migration
         Schema::create('artikel', function (Blueprint $table) {
             $table->id();
             $table->foreignId('category_id');
-            $table->string('judul_artikel');
+            $table->string('judul_artikel')->unique();
             $table->text('isi_artikel');
+            $table->timestamps();
         });
     }
 

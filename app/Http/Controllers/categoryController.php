@@ -19,14 +19,13 @@ class categoryController extends Controller
         $katakunci = $request->katakunci;
         $jumlahbaris = 3;
         if(strlen($katakunci)){
-            $data = category::where('category_id','like',"%$katakunci%")
+            $data = category::where('id','like',"%$katakunci%")
                 ->orWhere('nama_cat','like',"%$katakunci%")
-                ->orWhere('slug_cat','like',"%$katakunci%")
                 ->paginate($jumlahbaris);
         }else{
 
         
-        $data = category::orderby('category_id', 'asc')->paginate($jumlahbaris);
+        $data = category::orderby('id', 'asc')->paginate($jumlahbaris);
 
         }
         return view('category.index')->with('data_category', $data);
@@ -55,19 +54,16 @@ class categoryController extends Controller
         $request->validate([
             'category_id'=>'required|numeric|unique:category,category_id',
             'nama_cat' =>'required',
-            'slug_cat' =>'required',
         ], [
             'category_id.required'=>'ID Wajib diisi',
             'category_id.numeric'=>'ID Wajib dalam diisi dalam angka',
             'category_id.unique'=>'ID Wajib disiikan sudah ada dalam database',
             'nama_cat.required'=>'Nama Kategori wajib diisi',
-            'slug_cat.required'=>'Nama Kategori wajib diisi',
         ]);
 
         $data = [
-            'category_id'=>$request->category_id,
+            'id'=>$request->category_id,
             'nama_cat'=>$request->nama_cat,
-            'slug_cat'=>$request->slug_cat,
 
         ];
         category::create($data);
@@ -108,14 +104,11 @@ class categoryController extends Controller
     {
         $request->validate([
             'nama_cat' =>'required',
-            'slug_cat' =>'required',
         ], [
             'nama_cat.required'=>'Nama Kategori wajib diisi',
-            'slug_cat.required'=>'Slug wajib diisi',
         ]);
         $data = [
             'nama_cat'=>$request->nama_cat,
-            'slug_cat'=>$request->slug_cat,
 
         ];
 
