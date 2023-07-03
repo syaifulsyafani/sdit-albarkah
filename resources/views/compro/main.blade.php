@@ -67,9 +67,9 @@
                                 Pendaftaran
                             </a>
                             <div class="dropdown-menu">
-                                <a class="dropdown-item" href="/visi">Alur Pendaftaran</a>
-                                <a class="dropdown-item" href="/daftar">Pendaftaran Siswa Baru</a>
-                                <a class="dropdown-item" href="/profil">FAQ</a>
+                                <a class="dropdown-item" href="/daftar">Alur Pendaftaran</a>
+                                <a class="dropdown-item" href="/daftarbaru">Pendaftaran Siswa Baru</a>
+                                <a class="dropdown-item" href="/faq">FAQ</a>
                             </div>
                         </li>
                         <li><a href="/kontak">Kontak</a></li>
@@ -111,15 +111,15 @@
                 <div class="col-lg-2 col-md-6 single-footer-widget">
                     <h4>-</h4>
                     <ul>
-                        <li><a href="/pengajar">Kurikulum</a></li>
+                        <li><a href="/kurikulum">Kurikulum</a></li>
                         <li><a href="/bloger">Artikel</a></li>
-                        <li><a href="/galeriweb">Pendaftaran</a></li>
+                        <li><a href="/daftar">Pendaftaran</a></li>
                         <li><a href="/kontak">Kontak</a></li>
                     </ul>
                 </div>
                 <div class="single-footer-widget ">
                     <h4>Kontak</h4>
-                    <h6 class="text-white">Phone</h6>
+                    <h6 class="text-white">Whatsapp</h6>
                     <p class="text-white">+62 21 8770 6162</p>
                     <h6 class="text-white">E-mail</h6>
                     <p class="text-white">albarkah.sdit@gmail.com</p>

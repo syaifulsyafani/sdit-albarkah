@@ -46,7 +46,7 @@
 <!-- End Kata Sambutan -->
 
 <!-- Start Kata Sambutan -->        
-    <section class="about-area section-gap">
+    <section class="about-area section-mid">
         <div class="container">
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-5 col-md-12 about-right">

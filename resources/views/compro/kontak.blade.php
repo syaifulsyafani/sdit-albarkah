@@ -37,7 +37,7 @@
             </div>
             <div class="info_item">
                 <i class="fa fa-phone"></i>
-                <h6><a href="#">Phone</a></h6>
+                <h6><a href="#">Whatsapp</a></h6>
                 <p>+62 21 8770 6162</p>
             </div>
             <div class="info_item">

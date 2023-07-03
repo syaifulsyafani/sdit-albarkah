@@ -50,6 +50,13 @@ Route::get('/daftar', function () {
     return view('compro.daftar');
 });
 
+Route::get('/daftarbaru', function () {
+    return view('compro.daftarbaru');
+});
+
+Route::get('/faq', function () {
+    return view('compro.faq');
+});
 
 Route::get('/deblog', function () {
     return view('compro.deblog');

@@ -18,44 +18,22 @@
 <!-- Start About Area -->
 <section class="about-area section-gap">
     <div class="container">
-        <div class="row align-items-center justify-content-center">
-            <div class="col-lg-7 col-md-12 about-left">
-                <img class="img-fluid" src="{{ asset('compro/img/about.png') }}" alt="">
-            </div>
-            <div class="col-lg-5 col-md-12 about-right">
-                <div class="section-title text-right">
-                    <h4>Visi Kami</h4> <br>
-                    <h3>Menjadikan Lembaga Pendidikan <br> Alternatif Yang Mendidik Generasi Qur'ani</h3> <br>
-                    <h3>Bertradisikan Islami</h3> <br>
-                    <h3>Berkualitas Tinggi dan <br> Menjadi Model di Kota Depok</h3>
-                </div>
-            </div>
-        </div>
+        <h2>Visi</h2> <br> <br>
+        <h1 class="text-center">“Terbentuknya Peserta Didik Yang Berpengetahuan & Berakhlak Islami, Terampil, Cerdas Serta Santun Berdasar Al Qur’an & Sunnah”  </h1>
     </div>
 </section>
-
 <!-- End About Area -->
 
 <!-- Start About Area -->
 <section class="about-area section-gap">
     <div class="container">
-        <div class="row align-items-center justify-content-center">
-            <div class="col-lg-5 col-md-12 about-right">
-                <div class="section-title text-left">
-                    <h4>Misi Kami</h4> <br>
-                    <h3>Mengupayakan siswa berkaidah kuat, berakhlak mulia, 
-                        berprestasi akademik dan berjiwa mandiri</h3> <br>
-                    <h3>Menyelenggarakan pendidikan yang berkualitas 
-                        dan memiliki karakter islami</h3> <br>
-                    <h3>Memfasilitasi seluruh kecerdasan dan potensi 
-                        peserta didik melalui pendidikan dan pengajaran</h3>
-
-                </div>
-            </div>
-            <div class="col-lg-7 col-md-12 about-left">
-                <img class="img-fluid" src="{{ asset('compro/img/about.png') }}" alt="">
-            </div>
-        </div>
+        <h2>Misi</h2> <br> <br>
+        <h3>Misi SDIT Al-Barkah adalah menjadi lembaga pendidikan yang unggul, berorientasi pada akhlak Islami, berdaya saing, dan berkontribusi pada pembangunan bangsa. <br><br> Misi sekolah ini adalah: <br> <br>
+            1. Memberikan pendidikan yang bermutu dengan mengintegrasikan nilai-nilai Islami ke dalam kurikulum. <br>
+            2. Membangun karakter dan akhlak mulia siswa sebagai bekal kehidupan di dunia dan akhirat. <br>
+            3. Menciptakan lingkungan belajar yang aman, nyaman, dan inklusif bagi semua siswa. <br>
+            4. Mengembangkan potensi siswa dalam berbagai bidang, baik akademik maupun non-akademik. <br>
+            5. Menjalin kemitraan yang erat antara sekolah, orang tua, dan masyarakat untuk mendukung pertumbuhan dan perkembangan siswa.</h3>
     </div>
 </section>
 <!-- End About Area -->
